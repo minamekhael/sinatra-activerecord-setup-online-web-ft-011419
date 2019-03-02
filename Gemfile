@@ -14,7 +14,7 @@ gem 'rake'
 group :development do
 	gem 'shotgun'
 	gem 'pry'
-	gem 'sqlite3' ~> '1.4.0'
+	gem 'sqlite3' '~>1.3.6'
 	gem 'tux'
 end
 
